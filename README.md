@@ -33,3 +33,15 @@ This project focuses on analyzing pizza sales data using Python to understand sa
 
 ## 🎯 Objective
 The main objective of this project is to transform raw pizza sales data into meaningful insights using Python. It aims to understand sales trends, identify customer preferences, evaluate product performance, and support data-driven business decisions.
+
+## 👨‍💻 Author
+
+**Sanket Kenjale**
+
+B.Sc. IT Graduate | Data Analyst
+
+Skills: Power BI | SQL | Tableau | Python | Advanced Excel | Data Analysis
+
+Created as a Data Analytics project using Jupyter Notebook Python.
+
+If you find this project interesting, feel free to explore the repository!
